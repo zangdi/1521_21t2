@@ -1,0 +1,23 @@
+array: made up of the same data type
+{1, 2, 3, 4}
+{'a', 'b', 'c'}
+
+arr[0]
+arr[1]
+
+struct: can be made up of different data types
+{1, "cat", "brown"}
+
+struct node {
+    int val;
+    struct node *next;
+}
+
+struct node curr;
+curr.val
+curr.next
+
+struct node *head;
+curr->val
+curr->next
+

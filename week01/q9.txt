@@ -1,0 +1,23 @@
+x: at 1000, value 0
+p: at 2000, value 0
+
+a)
+p = 1000
+
+b)
+x = 5
+
+c)
+x = 3
+
+d)
+x = 1000
+
+e)
+x = 2000
+
+f)
+p = NULL
+
+g)
+error, dereference NULL pointer

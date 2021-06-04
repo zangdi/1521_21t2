@@ -1,0 +1,13 @@
+++ - increment <- i++ and ++i   i = 2, arr[i++] = 5 vs arr[++i] = 5
+-- - decrement <- i-- and --i
+!  - logical not
+&  - address of
+*  - indirection (getting the value at a pointer)
+~  - bitwise not
+-  - unary minus ( x = -5)
++  - unary plus (x = +5)
+
+
+sizeof(char)
+int x = 5;
+sizeof x
